@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_name">About ALC</string>
+    <string name="profile_name">MY PROFILE </string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name_user">Shaiek Rihab</string>
+    <string name="track_android">Track : Android</string>
+    <string name="country_name">Country : Tunisia</string>
+    <string name="email">Email : shaiekrihab123@gmail.com</string>
+    <string name="phone_number">Phone Number : 52430914</string>
+    <string name="slack_username">Slack Username : @Rima sh</string>
+
+</resources>
